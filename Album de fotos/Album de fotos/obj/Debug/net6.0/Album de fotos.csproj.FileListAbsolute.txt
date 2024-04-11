@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\bin\Debug\net6.0\Album de fotos.exe
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\bin\Debug\net6.0\Album de fotos.deps.json
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\bin\Debug\net6.0\Album de fotos.runtimeconfig.json
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\bin\Debug\net6.0\Album de fotos.dll
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\bin\Debug\net6.0\Album de fotos.pdb
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\obj\Debug\net6.0\Album de fotos.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\obj\Debug\net6.0\Album de fotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\obj\Debug\net6.0\Album de fotos.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\obj\Debug\net6.0\Album de fotos.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\obj\Debug\net6.0\Album de fotos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\obj\Debug\net6.0\Album de fotos.dll
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\obj\Debug\net6.0\refint\Album de fotos.dll
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\obj\Debug\net6.0\Album de fotos.pdb
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\obj\Debug\net6.0\Album de fotos.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Exercícios\Album de fotos\Album de fotos\obj\Debug\net6.0\ref\Album de fotos.dll

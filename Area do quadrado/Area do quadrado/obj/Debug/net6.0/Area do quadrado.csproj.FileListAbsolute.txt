@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\obj\Debug\net6.0\Area do quadrado.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\obj\Debug\net6.0\Area do quadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\obj\Debug\net6.0\Area do quadrado.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\obj\Debug\net6.0\Area do quadrado.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\obj\Debug\net6.0\Area do quadrado.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\bin\Debug\net6.0\Area do quadrado.exe
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\bin\Debug\net6.0\Area do quadrado.deps.json
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\bin\Debug\net6.0\Area do quadrado.runtimeconfig.json
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\bin\Debug\net6.0\Area do quadrado.dll
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\bin\Debug\net6.0\Area do quadrado.pdb
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\obj\Debug\net6.0\Area do quadrado.dll
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\obj\Debug\net6.0\refint\Area do quadrado.dll
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\obj\Debug\net6.0\Area do quadrado.pdb
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\obj\Debug\net6.0\Area do quadrado.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Exercícios\Area do quadrado\Area do quadrado\obj\Debug\net6.0\ref\Area do quadrado.dll
