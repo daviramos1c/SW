@@ -1,0 +1,14 @@
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\bin\Debug\net6.0\Pagamento.exe
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\bin\Debug\net6.0\Pagamento.deps.json
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\bin\Debug\net6.0\Pagamento.runtimeconfig.json
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\bin\Debug\net6.0\Pagamento.dll
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\bin\Debug\net6.0\Pagamento.pdb
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.AssemblyInfoInputs.cache
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.AssemblyInfo.cs
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.dll
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\obj\Debug\net6.0\refint\Pagamento.dll
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.pdb
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.genruntimeconfig.cache
+C:\Users\Davizin\Documents\SW\Pagamento\Pagamento\obj\Debug\net6.0\ref\Pagamento.dll
